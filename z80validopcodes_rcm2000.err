@@ -1,0 +1,103 @@
+error 2002 in line 46 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (daa)
+error 2002 in line 127 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (halt)
+error 2014 in line 205 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (call) but it can be emulated (-rcmemu)
+error 2010 in line 208 of "z80validopcodes.asm": Rabbit target doesn't support rst 0
+error 2002 in line 260 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (sll)
+error 2002 in line 261 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (sll)
+error 2002 in line 262 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (sll)
+error 2002 in line 263 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (sll)
+error 2002 in line 264 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (sll)
+error 2002 in line 265 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (sll)
+error 2002 in line 266 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (sll)
+error 2002 in line 267 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (sll)
+error 2014 in line 469 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (call) but it can be emulated (-rcmemu)
+error 2010 in line 472 of "z80validopcodes.asm": Rabbit target doesn't support rst 8
+error 2002 in line 476 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (out)
+error 2014 in line 477 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (call) but it can be emulated (-rcmemu)
+error 2002 in line 484 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (in)
+error 2014 in line 485 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (call) but it can be emulated (-rcmemu)
+error 2014 in line 562 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (call) but it can be emulated (-rcmemu)
+error 2014 in line 570 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (call) but it can be emulated (-rcmemu)
+error 2002 in line 571 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (in)
+error 2002 in line 572 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (out)
+error 2002 in line 576 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (retn)
+error 2002 in line 577 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (im)
+error 2002 in line 579 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (in)
+error 2002 in line 580 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (out)
+error 2002 in line 585 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (in)
+error 2002 in line 586 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (out)
+error 2002 in line 589 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (im)
+error 2002 in line 591 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (in)
+error 2002 in line 592 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (out)
+error 2002 in line 595 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (im)
+error 2002 in line 597 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (in)
+error 2002 in line 598 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (out)
+error 2014 in line 601 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (rrd) but it can be emulated (-rcmemu)
+error 2002 in line 602 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (in)
+error 2002 in line 603 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (out)
+error 2014 in line 606 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (rld) but it can be emulated (-rcmemu)
+error 2002 in line 609 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (in)
+error 2002 in line 610 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (out)
+error 2014 in line 614 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (cpi) but it can be emulated (-rcmemu)
+error 2002 in line 615 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (ini)
+error 2002 in line 616 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (outi)
+error 2014 in line 618 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (cpd) but it can be emulated (-rcmemu)
+error 2002 in line 619 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (ind)
+error 2002 in line 620 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (outd)
+error 2014 in line 622 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (cpir) but it can be emulated (-rcmemu)
+error 2002 in line 623 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (inir)
+error 2002 in line 624 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (otir)
+error 2014 in line 626 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (cpdr) but it can be emulated (-rcmemu)
+error 2002 in line 627 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (indr)
+error 2002 in line 628 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (otdr)
+error 2002 in line 634 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (di)
+error 2014 in line 635 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (call) but it can be emulated (-rcmemu)
+error 2010 in line 638 of "z80validopcodes.asm": Rabbit target doesn't support rst 48
+error 2002 in line 642 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (ei)
+error 2014 in line 643 of "z80validopcodes.asm": Opcode not supported by Rabbit2000 (call) but it can be emulated (-rcmemu)
+error 2011 in line 716 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 717 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 718 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 719 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 720 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 721 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 722 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 723 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 724 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 725 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 726 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 727 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 728 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 729 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 730 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 731 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 732 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 733 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 734 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 735 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 736 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 737 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 738 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 739 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 740 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 741 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 742 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 743 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 744 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 745 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 746 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 747 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 748 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 749 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 750 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 751 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 752 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 753 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 754 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 755 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 756 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 757 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 758 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 759 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 760 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers
+error 2011 in line 761 of "z80validopcodes.asm": Rabbit target doesn't support 8 bit index registers

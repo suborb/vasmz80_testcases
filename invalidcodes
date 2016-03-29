@@ -1,0 +1,16 @@
+#!/bin/sh
+#
+# Script to run the assembler on a list of invalid opcodes and compare the
+# result with what we expect
+
+# $1 = binary
+# $2 = cpu target
+# $3 = file to test
+tmpfile=tmp.$$
+rm -f $tmpfile
+$1 -maxerrors=3000 -$2 -Fbin $3.asm 2>&1 | grep error > $tmpfile
+diff -w $tmpfile $3_$2.err
+ret=$?
+rm -f $tmpfile
+exit $ret
+
